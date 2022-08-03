@@ -1,0 +1,10 @@
+{
+  "sql": {
+    "host": "remotemysql.com",
+    "user": "yg7tPscvob",
+    "password": "a6ZMCwMUIS",
+    "database": "yg7tPscvob"
+  },
+    "token": "MTAwNDQxNDE2NjMzMDc4OTk4OA.GE8vXU.y7qf7lzMSu2QyD7gslHyzPcb80KiKNuL4SuI30",
+    "prefix": "!"
+}
